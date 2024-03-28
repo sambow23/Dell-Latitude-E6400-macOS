@@ -8,6 +8,6 @@ Specs:
 - **GPU** : NVIDIA Quadro NVS 160M 
 - **Storage** : Samsung 870 EVO 500GB SATA SSD
 - **Screen** : 14.1" 1440x900
-- **WiFi** : N/A (Finding a compatible card)
-- **Soundcard** : IDT 92HDxxx (VoodooHDA)
+- **WiFi** : Intel® Wi-Fi 6 AX200
+- **Soundcard** : IDT 92HDxxx (VoodooHDA injected with OC)
 - **Battery** : 82WHr
