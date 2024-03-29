@@ -1,4 +1,5 @@
 # Dell Latitude E6400 (WIP)
+<img src="https://i.imgur.com/pnwi67A.jpeg" width="500">
 
 Specs:
 ---
