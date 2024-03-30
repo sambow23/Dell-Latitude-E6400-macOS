@@ -38,3 +38,8 @@ Specs:
 - Internal microphone
 - Bluetooth Audio
 - iMessage and iCloud
+
+## Tested/Working macOS Versions
+- macOS Yosemite
+- macOS El Capitan
+- macOS High Sierra
