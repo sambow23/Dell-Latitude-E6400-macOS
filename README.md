@@ -27,12 +27,13 @@ Specs:
 - All USB ports (only USB 2.0 devices currently)
 - Brightness (with keyboard brightness controls)
 - Battery precentage, charging
+- VGA Output
 
 #### What does not work
 
 - Sleep, lid sleep and lid wake
 - Shutting Down/Restarting
-- DisplayPort/VGA (unsure why)
+- DisplayPort (unsure why)
 
 #### Untested
 - Internal microphone
