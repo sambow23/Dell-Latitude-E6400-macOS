@@ -24,15 +24,16 @@ Specs:
 - Trackpad (glitchy on some boots)
 - Keyboard
 - Internal Speakers
-- All USB ports (only USB 2.0 devices currently)
+- All USB ports
 - Brightness (with keyboard brightness controls)
 - Battery precentage, charging
 - VGA Output
+- Shutting Down
 
 #### What does not work
 
-- Sleep, lid sleep and lid wake
-- Shutting Down/Restarting
+- Sleep, lid sleep and lid wake (Same issue as Restarting)
+- Restarting (Freezes after CPU Halt)
 - DisplayPort (unsure why)
 
 #### Untested
