@@ -24,6 +24,7 @@ Specs:
 - Trackpad (glitchy on some boots)
 - Keyboard
 - Internal Speakers
+- Headphone Output (loud electrical noise)
 - All USB ports
 - Brightness (with keyboard brightness controls)
 - Battery precentage, charging
