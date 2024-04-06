@@ -16,7 +16,7 @@ Specs:
 ## Hardware compatibility
 
 #### What works
-
+##### DISCLAIMER: The machine will sometimes kernel panic on boot, it's caused by the USB controller and is under investigation. 
 - CPU power management
 - GPU acceleration and video codecs
 - SSD
@@ -25,6 +25,7 @@ Specs:
 - Keyboard
 - Internal Speakers
 - Headphone Output (loud electrical noise from DAC, cannot be fixed in software)
+- Internal microphone
 - All USB ports
 - Brightness (with keyboard brightness controls)
 - Battery precentage, charging
@@ -38,7 +39,6 @@ Specs:
 - DisplayPort (unsure why)
 
 #### Untested
-- Internal microphone
 - Bluetooth Audio
 - iMessage and iCloud
 
