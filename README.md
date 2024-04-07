@@ -16,7 +16,6 @@ Specs:
 ## Hardware compatibility
 
 #### What works
-##### DISCLAIMER: The machine will sometimes kernel panic on boot, it's caused by the USB controller and is under investigation. 
 - CPU power management
 - GPU acceleration and video codecs
 - SSD
