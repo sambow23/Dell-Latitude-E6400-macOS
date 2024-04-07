@@ -278,7 +278,7 @@
 			<dict>
 				<key>port-count</key>
 				<data>
-				AQAAAA==
+				AAAAAA==
 				</data>
 				<key>kUSBMuxEnabled</key>
 				<false/>
@@ -286,12 +286,12 @@
 				<dict>
 					<key>PRT1</key>
 					<dict>
-						<key>UsbConnector</key>
-						<integer>0</integer>
-						<key>port</key>
+						<key>#port</key>
 						<data>
 						AQAAAA==
 						</data>
+						<key>UsbConnector</key>
+						<integer>0</integer>
 					</dict>
 					<key>PRT2</key>
 					<dict>
