@@ -19,7 +19,7 @@ Specs:
 - CPU power management
 - GPU acceleration and video codecs
 - SSD
-- Wireless (Bluetooth and Wi-Fi) (itlwm)
+- Wi-Fi (itlwm)
 - Trackpad (glitchy on some boots)
 - Keyboard
 - Internal Speakers
@@ -36,6 +36,7 @@ Specs:
 - Sleep, lid sleep and lid wake (Same issue as Restarting)
 - Restarting (Freezes after CPU Halt)
 - DisplayPort (unsure why)
+- Bluetooth (unsure why) (IntelBluetoothFirmware)
 
 #### Untested
 - Bluetooth Audio
