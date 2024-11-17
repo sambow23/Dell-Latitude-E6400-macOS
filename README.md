@@ -1,4 +1,4 @@
-# Dell Latitude E6400 (WIP)
+# Dell Latitude E6400
 <img src="https://i.imgur.com/pnwi67A.jpeg" width="500">
 
 | Hardware  | |
