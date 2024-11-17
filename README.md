@@ -1,22 +1,20 @@
 # Dell Latitude E6400 (WIP)
 <img src="https://i.imgur.com/pnwi67A.jpeg" width="500">
 
-Specs:
----
-
-- **CPU** : Intel Core 2 Duo P8700 @ 2.53GHz
-- **RAM** : 8GB dual-channel 800MHz DDR2
-- **GPU** : NVIDIA Quadro NVS 160M 
-- **Storage** : Samsung 870 EVO 500GB SATA SSD
-- **Screen** : 14.1" 1440x900
-- **WiFi** : Intel® Wi-Fi 6 AX200
-- **Soundcard** : IDT 92HD71B (AppleALC)
-- **Battery** : 82WHr
+| Hardware  | |
+| ------------- | ------------- |
+| CPU  | Intel Core 2 Duo P8700 |
+| RAM  | 8GB DDR2 |
+| GPU  | NVIDIA Quadro NVS 160M  |
+| Network  | Intel® Wi-Fi 6 AX200  |
+| Storage  | Samsung SSD 870 EVO 500GB |
+| OS  | macOS High Sierra 10.13.6 |
+| Screen  | 14.2-inch (1440 x 900) | 
+| Bootloader | OpenCore 0.9.8 | 
 
 ## Hardware compatibility
 
 #### What works
-- CPU power management
 - GPU acceleration and video codecs
 - SSD
 - Wi-Fi (itlwm)
@@ -32,17 +30,12 @@ Specs:
 - Shutting Down
 
 #### What does not work
-
-- Sleep, lid sleep and lid wake (Same issue as Restarting)
-- Restarting (Freezes after CPU Halt)
+- CPU power management (works on Clover)
+- Sleep (lack of CPU PM)
+- Restarting (lack of CPU PM)
+- Bluetooth (No USB Lanes in mini-PCIe slot)
 - DisplayPort (unsure why)
-- Bluetooth (unsure why) (IntelBluetoothFirmware)
 
 #### Untested
 - Bluetooth Audio
 - iMessage and iCloud
-
-## Tested/Working macOS Versions
-- macOS Yosemite
-- macOS El Capitan
-- macOS High Sierra
